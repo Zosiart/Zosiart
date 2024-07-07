@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zosiart&show_icons=true&locale=en&layout=compact" alt="zosiart" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zosiart&show_icons=true&locale=en" alt="zosiart" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zosiart&show_icons=true&locale=en" alt="zosiart" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zosiart&" alt="zosiart" /></p>
